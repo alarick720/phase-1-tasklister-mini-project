@@ -1,3 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // your code here
+  console.log("After DOM Loaded")
+
 });
+console.log("Before DOM Loads")
